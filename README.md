@@ -2,6 +2,8 @@
 
 A dependency-free WebGL 2 atlas of Earth inspired by [Luna Moon](https://github.com/sigfly/luna-moon). Open `index.html` alongside the included `assets/` directory, or run the build to generate `terra-offline.html`, a standalone file containing all imagery and code. No API key is required. For educational exploration, not scientific or navigation use.
 
+**[Download the repository ZIP](https://github.com/sigfly/terra-earth/archive/refs/heads/main.zip)** and extract it before opening `index.html`. The [Actions builds](https://github.com/sigfly/terra-earth/actions) also provide a generated standalone HTML artifact when CI completes.
+
 ## Features
 
 - Rotate, zoom (up to 64×), pinch, auto-rotate, and navigate to geographic coordinates or 22 landmarks.
